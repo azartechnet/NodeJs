@@ -1,4 +1,4 @@
-var i=0;
+var i=1;
 setTimeout(function(){//function does not execute first
     console.log("Finished")
     i++;
